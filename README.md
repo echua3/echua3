@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 📚 I'm a Computer Science Major from Johns Hopkins University.
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: epiphany.chua5@gmail.com
+
 
 <!--
 **echua3/echua3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
