@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📚 I'm a Computer Science Major from Johns Hopkins University.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: epiphany.chua5@gmail.com
 
 
