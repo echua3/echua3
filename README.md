@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📚 I'm a Computer Science Major from Johns Hopkins University.
 - 😄 Pronouns: She/Her/Hers
-- 📫 How to reach me: echua3 (@) jhu (dot) edu / epiphany (dot) chua5 (@) gmail (dot) com
+- 📫 How to reach me: echua3 (at) jhu (dot) edu / epiphanychua5 (at) gmail (dot) com
 
 
 <!--
